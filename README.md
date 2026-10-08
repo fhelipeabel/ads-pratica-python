@@ -18,3 +18,5 @@ Para rodar este script na sua máquina, você precisa ter o [Python](https://www
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/SEU-USUARIO/gestao-notas-python.git](https://github.com/SEU-USUARIO/gestao-notas-python.git)
+
+<img width="2780" height="4708" alt="media_alunos_code" src="https://github.com/user-attachments/assets/3e7b2fb1-3327-4343-87fb-2dfc456d009f" />
